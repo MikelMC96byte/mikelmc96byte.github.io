@@ -2,5 +2,5 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://mikelmc96byte.github.io',
+    site: 'https://mikelmc.dev',
 });
